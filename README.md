@@ -26,7 +26,7 @@ Skills: HTML / CSS / JavaScript / TypeScript / JSON / React.js / Git / WordPress
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdmahabub66)  
 
-![GitHub metrics](https://metrics.lecoq.io/mdmahabub66)  
+ 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdmahabub66)  
 
