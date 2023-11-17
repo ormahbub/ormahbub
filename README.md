@@ -12,12 +12,10 @@ Skills: HTML / CSS / Bootstrap / JavaScript / jQuery / SASS / JSON / TypeScript 
 - 💬 Ask me about anything related to WordPress 
 - 📫 How to reach me: [https://prowebly.com/](https://prowebly.com/)
 
-<img alt="Facebook" href="facebook.com/pdmahbub" src="https://raw.githubusercontent.com/mdmahabub66/mdmahabub66/main/fb.png" height="80px">
-<img alt="Facebook" href="linkedin.com/in/mdmaahbub" src="https://raw.githubusercontent.com/mdmahabub66/mdmahabub66/main/li.png" height="80px">
-<img alt="Facebook" href="https://api.whatsapp.com/send?phone=8801918828411&text=Thanks%20for%20send%20the%20message.%20Please,%20wait.%20You%20will%20get%20the%20replay%20very%20soon." src="https://raw.githubusercontent.com/mdmahabub66/mdmahabub66/main/wa.png" height="80px">
-<img alt="Facebook" href="fiverr.com/mdmaahabub" src="https://raw.githubusercontent.com/mdmahabub66/mdmahabub66/main/f.png" height="80px">
-<img alt="Facebook" href="prowebly.com" src="https://raw.githubusercontent.com/mdmahabub66/mdmahabub66/main/e.png" height="80px">
-
+[Facebook](facebook.com/pdmahbub)
+[LinkedIn](linkedin.com/in/mdmaahabub)
+[Fiverr](fiverr.com/mdmaahabub)
+[Portfolio](prowebly.com)  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahabub66)](https://github.com/anuraghazra/github-readme-stats)
