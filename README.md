@@ -12,10 +12,10 @@ Skills: HTML / CSS / Bootstrap / JavaScript / jQuery / SASS / JSON / TypeScript 
 - 💬 Ask me about anything related to WordPress 
 - 📫 How to reach me: [https://prowebly.com/](https://prowebly.com/)
 
-# [Facebook](facebook.com/pdmahbub)
-# [LinkedIn](linkedin.com/in/mdmaahabub)
-# [Fiverr](fiverr.com/mdmaahabub)
-# [Portfolio](prowebly.com)  
+# [Facebook](https://www.facebook.com/pdmahbub)
+# [LinkedIn](https://www.linkedin.com/in/mdmaahabub)
+# [Fiverr](https://www.fiverr.com/mdmaahabub)
+# [Portfolio](https://www.prowebly.com)  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahabub66)](https://github.com/anuraghazra/github-readme-stats)
