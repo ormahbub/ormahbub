@@ -1,33 +1,27 @@
+<img alt="Professional Web Developer" src="https://raw.githubusercontent.com/mdmahabub66/mdmahabub66/main/Webe.png" width="100%" height="100%">
 # Hi there 👋, my name is Mahbub
-## Professional Web Developer
-<img alt="Professional Web Developer" src="https://raw.githubusercontent.com/mdmahabub66/mdmahabub66/main/gcover3.png" width="100%" height="100%">
+## I am a Front-end Web Developer
 
-Welcome to my profile! As a WordPress expert with 3 years of experience, I specialize in providing professional and reliable services for your WordPress Website needs. From theme customization and plugin customization to website optimization and security, I am committed to delivering high-quality work within your budget and timeline. I will continue to work until you are satisfied. Your satisfaction is very important to me. So, feel free to contact me today to take your WordPress website to the next level. Thank you...❤
+As a Front-end Web Developer I provides error-free websites with 100% client satisfaction. Web Development is my passion, I give full time to development. I believe in quality-full work, not quantity. I get deeper to understand client's need & problems. My mission is to satisfy every client and become myself a professional developer. My goal is not just to get the job done and get out. My real goal is to build a strong relationship with the client by satisfying them. Let's work with me and be happy with the result.
 
-Skills: HTML / CSS / JavaScript / TypeScript / JSON / React.js / Git / WordPress
+Skills: HTML / CSS / Bootstrap / JavaScript / jQuery / SASS / JSON / TypeScript / Git / WordPress / Elementor / WooCommerce
 
 - 🔭 I’m currently working on Fiverr as a WordPress Developer 
 - 🌱 I’m currently learning React.js 
-- 👯 I’m looking to collaborate on Something 
-- 🤔 I’m looking for help with Something 
-- 💬 Ask me about Something 
-- 📫 How to reach me: Something 
-- 😄 Pronouns: Something 
-- ⚡ Fun fact: Something 
+- 💬 Ask me about anything related to WordPress 
+- 📫 How to reach me: [https://prowebly.com/](https://prowebly.com/)
+
+<img alt="Facebook" href="facebook.com/pdmahbub" src="https://raw.githubusercontent.com/mdmahabub66/mdmahabub66/main/fb.png" height="80px">
+<img alt="Facebook" href="linkedin.com/in/mdmaahbub" src="https://raw.githubusercontent.com/mdmahabub66/mdmahabub66/main/li.png" height="80px">
+<img alt="Facebook" href="https://api.whatsapp.com/send?phone=8801918828411&text=Thanks%20for%20send%20the%20message.%20Please,%20wait.%20You%20will%20get%20the%20replay%20very%20soon." src="https://raw.githubusercontent.com/mdmahabub66/mdmahabub66/main/wa.png" height="80px">
+<img alt="Facebook" href="fiverr.com/mdmaahabub" src="https://raw.githubusercontent.com/mdmahabub66/mdmahabub66/main/f.png" height="80px">
+<img alt="Facebook" href="prowebly.com" src="https://raw.githubusercontent.com/mdmahabub66/mdmahabub66/main/e.png" height="80px">
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdmahabub66)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdmaahabub/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/pdmahbub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mdmaahabub/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mdmaahabub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/mdmahabub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/b1bjdct_OzmGHTwjeFyC-g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://prowebly.com/)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdmahabub66)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahabub66)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmahabub66&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdmahabub66)  
-
- 
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdmahabub66)  
 
-![Profile views](https://gpvc.arturio.dev/mdmahabub66)  
