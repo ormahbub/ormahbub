@@ -11,16 +11,9 @@ I dive deep into understanding client needs, ensuring every project is handled w
 
 ### 🛠️ Skills  
 **Front-end:** HTML, CSS, Bootstrap, JavaScript, jQuery, SASS, JSON, TypeScript  
-**CMS & Builders:** WordPress, Elementor, WooCommerce  
+**Back-end:** PHP, Node.js, Express.js
+**CMS & Builders:** WordPress (Expert), Shopify, Wix  
 **Tools & Workflow:** Git, GitHub, Figma  
-
----
-
-### 🚀 What I'm Working On  
-- 🔭 Currently working on **Fiverr** as a WordPress Developer  
-- 🌱 Learning **React.js** and expanding my JavaScript skills  
-- 💬 Ask me anything about **WordPress, performance optimization, or front-end development**  
-- 📫 Reach me here: [orMahbub.orbitwebzone.com](https://ormahbub.orbitwebzone.com)
 
 ---
 
