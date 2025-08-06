@@ -11,7 +11,7 @@ I dive deep into understanding client needs, ensuring every project is handled w
 
 ### 🛠️ Skills  
 **Front-end:** HTML, CSS, Bootstrap, JavaScript, jQuery, SASS, JSON, TypeScript  
-**Back-end:** PHP, Node.js, Express.js
+**Back-end:** PHP, Node.js, Express.js  
 **CMS & Builders:** WordPress (Expert), Shopify, Wix  
 **Tools & Workflow:** Git, GitHub, Figma  
 
@@ -22,10 +22,8 @@ I dive deep into understanding client needs, ensuring every project is handled w
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahabub66)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmahabub66&show_icons=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahabub66)](https://github.com/anuraghazra/github-readme-stats)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmahabub66&show_icons=true)  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdmahabub66)
