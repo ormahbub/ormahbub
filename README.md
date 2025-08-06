@@ -1,23 +1,38 @@
-<img alt="Professional Web Developer" src="https://raw.githubusercontent.com/mdmahabub66/mdmahabub66/main/Webe.png" width="100%" height="100%">  
+<img alt="Professional Web Developer" src="https://ormahbub.orbitwebzone.com/wp-content/uploads/2025/08/web-ss.png" width="100%" height="100%">
 
-# Hi there 👋, my name is Mahbub  
-## I am a Front-end Web Developer  
+# Hi there 👋, I'm Mahbub  
+## Front-end Web Developer | WordPress Expert
 
-As a Front-end Web Developer I provides error-free websites with 100% client satisfaction. Web Development is my passion, I give full time to development. I believe in quality-full work, not quantity. I get deeper to understand client's need & problems. My mission is to satisfy every client and become myself a professional developer. My goal is not just to get the job done and get out. My real goal is to build a strong relationship with the client by satisfying them. Let's work with me and be happy with the result.  
+I’m a passionate Front-end and WordPress Developer with a mission to deliver high-quality, error-free websites that exceed client expectations. I focus on clean, responsive, and performance-optimized solutions tailored to client goals. My approach goes beyond just completing tasks — I prioritize communication, long-term relationships, and real business results.
 
-Skills: HTML / CSS / Bootstrap / JavaScript / jQuery / SASS / JSON / TypeScript / Git / WordPress / Elementor / WooCommerce  
+I dive deep into understanding client needs, ensuring every project is handled with care, clarity, and professionalism. Let's collaborate and bring your web vision to life!
 
-- 🔭 I’m currently working on Fiverr as a WordPress Developer 
-- 🌱 I’m currently learning React.js 
-- 💬 Ask me about anything related to WordPress 
-- 📫 How to reach me: [https://prowebly.com/](https://prowebly.com/)
+---
 
-# [Facebook](https://www.facebook.com/pdmahbub) | [LinkedIn](https://www.linkedin.com/in/mdmaahabub) | [Fiverr](https://www.fiverr.com/mdmaahabub) | [Portfolio](https://www.prowebly.com)  
+### 🛠️ Skills  
+**Front-end:** HTML, CSS, Bootstrap, JavaScript, jQuery, SASS, JSON, TypeScript  
+**CMS & Builders:** WordPress, Elementor, WooCommerce  
+**Tools & Workflow:** Git, GitHub, Figma  
 
+---
+
+### 🚀 What I'm Working On  
+- 🔭 Currently working on **Fiverr** as a WordPress Developer  
+- 🌱 Learning **React.js** and expanding my JavaScript skills  
+- 💬 Ask me anything about **WordPress, performance optimization, or front-end development**  
+- 📫 Reach me here: [orMahbub.orbitwebzone.com](https://ormahbub.orbitwebzone.com)
+
+---
+
+### 🔗 Connect With Me  
+[🌐 Portfolio](https://ormahbub.orbitwebzone.com) | [🔗 LinkedIn](https://www.linkedin.com/in/ormahbub) | [💼 Fiverr](https://www.fiverr.com/mdmaahabub) | [📘 Facebook](https://www.facebook.com/ormahbub)
+
+---
+
+### 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahabub66)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmahabub66&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmahabub66&show_icons=true)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mdmahabub66)  
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mdmahabub66)
