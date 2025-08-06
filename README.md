@@ -1,4 +1,4 @@
-<img alt="Professional Web Developer" src="https://ormahbub.orbitwebzone.com/wp-content/uploads/2025/08/web-ss.png" width="100%" height="100%">
+<img alt="Professional Web Developer" src="https://ormahbub.orbitwebzone.com/wp-content/uploads/2025/08/web-ss-1.png" width="100%" height="100%">
 
 # Hi there 👋, I'm Mahbub  
 ## Front-end Web Developer | WordPress Expert
