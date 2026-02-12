@@ -46,9 +46,8 @@ I don’t just build websites —
 ---
 
 ## 🔗 Portfolio & Professional Profiles
-- 🌐 **Portfolio:** http://orm.kesug.com/
-- 💼 **LinkedIn:** https://www.linkedin.com/in/ormahbub  
-- 🛒 **Fiverr:** https://www.fiverr.com/mdmaahabub  
+- 🌐 **Portfolio:** http://mahbub.kesug.com/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ormahbub    
 - 📘 **Facebook:** https://www.facebook.com/ormahbub  
 
 ---
