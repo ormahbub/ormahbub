@@ -1,171 +1,154 @@
-<img alt="Mahbub — Web Engineer" src="https://dev-orm.pantheonsite.io/wp-content/uploads/2025/08/aaa.png" width="100%">
+<img alt="Md Mahbub Islam — Web Developer" src="https://dev-orm.pantheonsite.io/wp-content/uploads/2025/08/aaa.png" width="100%" height="100%">
 
-# MD Mahbub Islam
+# Md Mahbub Islam
+### Web Developer · WordPress & WooCommerce · Full-stack Engineering
 
-### Web Engineer · Full-stack WordPress Developer
-
-I’m a Web Developer with **4+ years of professional experience** building, maintaining, and optimizing production web applications and WordPress/WooCommerce solutions.
-
-My strongest experience is in **custom WordPress development, WooCommerce, PHP, JavaScript, Elementor Pro, custom themes and plugins, performance optimization, and production troubleshooting**. I also work with modern web technologies including **React, Next.js, Node.js, Express.js, MySQL, and MongoDB**.
-
-I approach development with an engineering mindset: understand the requirement, investigate the problem, build the right solution, test it properly, and keep the system maintainable.
+Building reliable, scalable, and performance-focused web solutions with 4+ years of professional experience.
 
 ---
 
-## Engineering Focus
+## 👨‍💻 About Me
 
-- Building production-ready WordPress & WooCommerce systems
-- Custom theme and plugin development
-- Complex dynamic functionality and integrations
-- Front-end development with modern JavaScript
-- Website performance and Web Vitals optimization
-- Debugging and maintaining existing production systems
-- REST API integration and backend-driven interfaces
-- Responsive and accessible user interfaces
-- Git-based development and collaborative workflows
+I’m a **Web Developer with 4+ years of professional experience** building, optimizing, and maintaining production websites and web solutions.
+
+My core expertise is **WordPress and WooCommerce development**, including custom themes, plugins, dynamic functionality, Elementor Pro, PHP, JavaScript, REST APIs, performance optimization, and production troubleshooting.
+
+I enjoy working beyond the surface of a website—understanding how systems work, investigating technical problems, writing custom solutions, and improving existing implementations for better **performance, reliability, maintainability, and user experience**.
+
+I have worked with **international clients, remote teams, and production environments**, collaborating on requirements, technical decisions, development, troubleshooting, and ongoing maintenance.
+
+I’m also continuously expanding toward modern full-stack engineering with **React, Next.js, Node.js, Express.js, MySQL, and MongoDB**.
+
+> **I don't just make websites work. I engineer solutions that are built to work reliably.**
 
 ---
 
-## Technical Stack
+## 🧠 Engineering Focus
+
+- **Custom Web Development** — Building solutions around actual business and technical requirements.
+- **WordPress Engineering** — Custom themes, plugins, WooCommerce, dynamic content, REST APIs, and advanced integrations.
+- **Performance & Reliability** — Diagnosing bottlenecks, improving loading performance, and resolving production issues.
+- **Problem Solving** — Investigating existing systems and implementing maintainable solutions instead of relying on temporary fixes.
+- **Production Ownership** — Development, debugging, maintenance, optimization, and deployment of real-world websites.
+
+---
+
+## 🛠️ Technical Stack
 
 ### Frontend
 
-`HTML5` `CSS3` `JavaScript (ES6+)` `jQuery` `React` `Next.js` `Tailwind CSS`
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- jQuery
+- React
+- Next.js
+- Tailwind CSS
 
 ### Backend & Databases
 
-`PHP` `Node.js` `Express.js` `MySQL` `MongoDB`
+- PHP
+- Node.js
+- Express.js
+- MySQL
+- MongoDB
 
-### WordPress
+### WordPress & CMS
 
-`WordPress` `WooCommerce` `Elementor Pro` `Custom Themes` `Custom Plugins` `CPT` `REST API`
+- WordPress
+- WooCommerce
+- Custom Theme Development
+- Custom Plugin Development
+- Elementor Pro
+- WordPress REST API
+- Custom Post Types (CPT)
+- Shopify
+- Wix
 
-### Tools
+### Performance & Web Engineering
 
-`Git` `GitHub` `NPM` `Postman` `Figma` `VS Code`
+- Website Speed Optimization
+- Web Vitals
+- Responsive Development
+- SEO Best Practices
+- Website Debugging
+- Security & Stability
 
-### Performance
+### Tools & Workflow
 
-`Web Vitals` `Website Speed Optimization` `SEO Best Practices`
+- Git
+- GitHub
+- NPM
+- Postman
+- Figma
+- VS Code
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
-### Full-stack WordPress Developer — Tech Maximus
-**2025 — Present · Dhaka, Bangladesh**
+### Full-stack WordPress Developer
+**Tech Maximus · Dhaka, Bangladesh**  
+`2025 — Present`
 
-Developing and maintaining production WordPress and WooCommerce websites using Elementor Pro, PHP, JavaScript, custom themes, plugins, and dynamic functionality.
+Developing and maintaining production WordPress and WooCommerce solutions using Elementor Pro, PHP, and JavaScript.
 
-- Build end-to-end WordPress and WooCommerce solutions.
-- Develop custom functionality using PHP and JavaScript.
-- Troubleshoot and optimize production websites.
-- Handle high-priority projects under tight deadlines.
+- Build bespoke themes, plugins, and dynamic functionality.
+- Develop and customize complete WordPress/WooCommerce websites.
+- Troubleshoot and optimize production websites for performance, stability, and security.
+- Deliver complex, high-priority features within demanding deadlines.
 
-### WordPress Front-end Developer — Webkonsulterne
-**2023 — 2025 · Remote**
+### WordPress Front-end Developer
+**Webkonsulterne · Remote**  
+`2023 — 2025`
 
-Worked with international clients and cross-functional teams to develop, maintain, and optimize responsive WordPress websites.
+Developed responsive WordPress websites for international clients while contributing to ongoing optimization, maintenance, and technical problem solving.
 
-- Developed responsive, user-focused WordPress interfaces.
-- Improved website performance and usability.
-- Communicated directly with clients and participated in project meetings.
-- Clarified requirements and provided technical guidance when needed.
+- Built user-focused websites following modern UI/UX principles.
+- Improved website performance, usability, and responsiveness.
+- Collaborated with international clients and cross-functional teams.
+- Participated in meetings, clarified requirements, and provided technical guidance.
 
 ### Freelance WordPress Developer
-**2021 — 2023 · Global**
+**Fiverr & Independent Client Projects · Global**  
+`2021 — 2023`
 
-Worked with clients across different industries to design, develop, customize, and maintain WordPress websites and business-focused web solutions.
+Delivered WordPress solutions for clients across different industries, handling development, customization, optimization, and technical communication throughout the project lifecycle.
 
-- Developed and customized WordPress websites.
-- Implemented responsive and performance-focused solutions.
-- Troubleshot functionality, performance, and security issues.
-- Maintained clear communication throughout project delivery.
-
----
-
-## Selected Engineering Work
-
-I work on projects involving more than page building. My experience includes:
-
-- **WPBakery → Elementor migrations** while preserving existing functionality and responsive behavior.
-- **Custom WordPress theme → WPBakery conversion** with WooCommerce functionality and custom PHP solutions.
-- **Dynamic property platforms** using Custom Post Types, ACF, Elementor Pro, and custom Elementor widgets.
-- **WooCommerce filtering and sorting systems** using custom PHP, JavaScript, and WordPress logic.
-- **Production debugging and maintenance** through code-level investigation and server/FTP access.
-- **Performance and usability improvements** across existing client websites.
-
-More detailed project breakdowns are available on my portfolio.
+- Developed and customized business-focused WordPress websites.
+- Improved performance, responsiveness, and security.
+- Solved technical and functional issues across client websites.
+- Maintained clear communication and delivered scalable solutions.
 
 ---
 
-## Engineering Principles
+## 📌 What I Build
 
-### Understand Before Implementing
-
-I start by understanding the existing system, requirements, constraints, and business objective before deciding how something should be built.
-
-### Prefer Maintainable Solutions
-
-A solution should not only work today. It should be understandable, maintainable, and practical for future development.
-
-### Debug at the Root Cause
-
-When something breaks, I prefer investigating the underlying system and fixing the actual cause rather than repeatedly applying temporary patches.
-
-### Performance Matters
-
-Performance is part of the implementation—not something to consider after development is finished.
+- Custom WordPress Websites
+- WooCommerce Stores
+- Custom WordPress Themes & Plugins
+- Dynamic WordPress Applications
+- Elementor-based Web Solutions
+- Performance-Optimized Websites
+- Custom Front-end Interfaces
+- API-Integrated Web Applications
 
 ---
 
-## Currently Learning
+## 🔗 Connect With Me
 
-I’m continuously expanding beyond WordPress toward modern full-stack web engineering, with a current focus on:
-
-- Advanced JavaScript
-- React
-- Next.js
-- Node.js
-- Full-stack application architecture
-- Modern development practices
+- 🌐 **Portfolio:** [semahbub.com](https://semahbub.com/)
+- 💼 **LinkedIn:** [linkedin.com/in/ormahbub](https://www.linkedin.com/in/ormahbub)
+- 📧 **Email:** [mahbub@semahbub.com](mailto:mahbub@semahbub.com)
 
 ---
 
-## Education & Training
+## 🤝 Open to Opportunities
 
-**AI-Driven Full-Stack Web Engineering** — Programming Hero *(Ongoing)*
+I’m interested in working with **product teams, software companies, agencies, and businesses** where I can contribute to meaningful web projects and solve challenging engineering problems.
 
-**Full-stack Web Development** — Anisul Islam
+I’m particularly interested in opportunities involving **WordPress engineering, modern front-end development, and full-stack web development**.
 
-**Advanced WordPress Development** — Sorobindu
+If you're looking for someone who can **understand requirements, take ownership, solve problems, and deliver production-ready solutions**, let's connect.
 
-**WordPress: Basic to Advanced** — Sorobindu
-
----
-
-## Find Me Online
-
-🌐 **Portfolio:** [semahbub.com](https://semahbub.com)
-
-💼 **LinkedIn:** [linkedin.com/in/ormahbub](https://www.linkedin.com/in/ormahbub)
-
-📧 **Email:** [mahbub@semahbub.com](mailto:mahbub@semahbub.com)
-
----
-
-## GitHub Activity
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahabub66)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdmahabub66&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mdmahabub66)
-
----
-
-## Open to Opportunities
-
-I'm interested in opportunities where I can contribute to real products, solve meaningful engineering problems, and continue growing as a web engineer.
-
-**If you're building something challenging, let's talk.**
+### Let’s build something meaningful.
