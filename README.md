@@ -241,8 +241,9 @@ Delivered web solutions for clients across different industries, including:
 <!-- ========================= -->
 
 ## 🔥 GitHub Streak
-
+<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ormahbub&theme=oceanic-next&hide_border=true)](https://git.io/streak-stats)
+</p>
 
 ## 📈 Contribution Activity
 
