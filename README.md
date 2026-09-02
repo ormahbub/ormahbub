@@ -240,6 +240,10 @@ Delivered web solutions for clients across different industries, including:
 <!--       GITHUB STATS        -->
 <!-- ========================= -->
 
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ormahbub&theme=oceanic-next&hide_border=true)](https://git.io/streak-stats)
+
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -248,14 +252,6 @@ Delivered web solutions for clients across different industries, including:
     width="100%" 
     alt="GitHub Contribution Graph"
   />
-</p>
-
----
-
-## GitHub Contributions
-
-<p align="center">
-  <img src="./github-ormahbub-contribution.svg" width="100%" alt="GitHub Contributions" />
 </p>
 
 ---
