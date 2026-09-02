@@ -240,21 +240,6 @@ Delivered web solutions for clients across different industries, including:
 <!--       GITHUB STATS        -->
 <!-- ========================= -->
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ormahbub&show_icons=true&theme=oceanic-next&hide_border=true&count_private=true" 
-    alt="GitHub Stats" 
-    width="49%"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ormahbub&layout=compact&theme=oceanic-next&hide_border=true&langs_count=8" 
-    alt="Top Languages" 
-    width="49%"
-  />
-</p>
-
 ## 🔥 Contribution Streak
 
 <p align="center">
