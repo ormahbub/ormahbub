@@ -241,17 +241,17 @@ Delivered web solutions for clients across different industries, including:
 ## 📊 GitHub Activity
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ormahbub&show_icons=true&theme=transparent&hide_border=true"
+    height="170"
+    alt="GitHub Stats"
+  />
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=ormahbub&show_icons=true&theme=transparent&hide_border=true"
-  height="170"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ormahbub&layout=compact&theme=transparent&hide_border=true"
-  height="170"
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ormahbub&layout=compact&theme=transparent&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
