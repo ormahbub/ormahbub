@@ -27,9 +27,11 @@
 <p align="center">
   <a href="https://semahbub.com">
     <img src="./portfolio-icon.png" height="45" alt="Portfolio"/>
-  </a> <a href="https://www.linkedin.com/in/ormahbub">
+  </a>
+  <a href="https://www.linkedin.com/in/ormahbub">
     <img src="./linkedin-icon.png" height="45" alt="LinkedIn" />
-  </a> <a href="mailto:mahbub@semahbub.com">
+  </a>
+  <a href="mailto:mahbub@semahbub.com">
     <img src="./email-icon.png" height="45" alt="Email" />
   </a>
 </p>
@@ -238,29 +240,39 @@ Delivered web solutions for clients across different industries, including:
 <!--       GITHUB STATS        -->
 <!-- ========================= -->
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=ormahbub&show_icons=true&theme=transparent&hide_border=true"
-    height="170"
     alt="GitHub Stats"
+    width="48%"
   />
-
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ormahbub&layout=compact&theme=transparent&hide_border=true"
-    height="170"
     alt="Top Languages"
+    width="48%"
   />
 </p>
 
+## 🔥 Contribution Streak
+
 <p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=ormahbub&theme=transparent&hide_border=true"
+    alt="GitHub Contribution Streak"
+    width="70%"
+  />
+</p>
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=ormahbub&theme=transparent&hide_border=true"
-  alt="GitHub Streak"
-/>
+## 📈 Contribution Activity
 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ormahbub&theme=github-compact&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
@@ -279,6 +291,27 @@ Delivered web solutions for clients across different industries, including:
 
 📧 **Email:** [mahbub@semahbub.com](mailto:mahbub@semahbub.com)
 
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ormahbub/ormahbub/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ormahbub/ormahbub/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/ormahbub/ormahbub/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
