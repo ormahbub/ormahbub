@@ -240,16 +240,36 @@ Delivered web solutions for clients across different industries, including:
 <!--       GITHUB STATS        -->
 <!-- ========================= -->
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
+
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ormahbub&theme=oceanic-next&hide_border=true)](https://git.io/streak-stats)
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ormahbub&show_icons=true&theme=oceanic-next&hide_border=true&count_private=true" 
+    alt="GitHub Stats" 
+    width="49%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ormahbub&layout=compact&theme=oceanic-next&hide_border=true&langs_count=8" 
+    alt="Top Languages" 
+    width="49%"
+  />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ormahbub&theme=oceanic-next&hide_border=true" 
+    alt="GitHub Contribution Streak" 
+    width="70%"
+  />
 </p>
 
 ## 📈 Contribution Activity
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ormahbub&theme=react-dark&hide_border=true&area=true" 
+    src="./github-ormahbub-contribution.svg" 
     width="100%" 
     alt="GitHub Contribution Graph"
   />
