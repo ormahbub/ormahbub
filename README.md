@@ -28,11 +28,11 @@
   <a href="https://semahbub.com">
     <img src="./portfolio-icon.png" height="45" alt="Portfolio"/>
   </a>
-  &nbsp;
+  <span> — </span>
   <a href="https://www.linkedin.com/in/ormahbub">
     <img src="./linkedin-icon.png" height="45" alt="LinkedIn" />
   </a>
-  &nbsp;
+  <span> — </span>
   <a href="mailto:mahbub@semahbub.com">
     <img src="./email-icon.png" height="45" alt="Email" />
   </a>
